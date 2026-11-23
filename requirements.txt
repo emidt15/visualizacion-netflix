@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+matplotlib
+seaborn
+plotly
+networkx
+squarify
+reportlab
+pillow
+jupyter
